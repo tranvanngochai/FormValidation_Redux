@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FormValidation_Redux/static/css/main.3559a180.chunk.css",
+    "main.js": "/FormValidation_Redux/static/js/main.1f61b80b.chunk.js",
+    "main.js.map": "/FormValidation_Redux/static/js/main.1f61b80b.chunk.js.map",
+    "runtime-main.js": "/FormValidation_Redux/static/js/runtime-main.63bb58d1.js",
+    "runtime-main.js.map": "/FormValidation_Redux/static/js/runtime-main.63bb58d1.js.map",
+    "static/js/2.750e52df.chunk.js": "/FormValidation_Redux/static/js/2.750e52df.chunk.js",
+    "static/js/2.750e52df.chunk.js.map": "/FormValidation_Redux/static/js/2.750e52df.chunk.js.map",
+    "static/js/3.67e7bb84.chunk.js": "/FormValidation_Redux/static/js/3.67e7bb84.chunk.js",
+    "static/js/3.67e7bb84.chunk.js.map": "/FormValidation_Redux/static/js/3.67e7bb84.chunk.js.map",
+    "index.html": "/FormValidation_Redux/index.html",
+    "static/css/main.3559a180.chunk.css.map": "/FormValidation_Redux/static/css/main.3559a180.chunk.css.map",
+    "static/js/2.750e52df.chunk.js.LICENSE.txt": "/FormValidation_Redux/static/js/2.750e52df.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/FormValidation_Redux/static/media/logo.6ce24c58.svg",
+    "static/media/BTGameTaiXiu.css": "/FormValidation_Redux/static/media/nen.70e6614f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63bb58d1.js",
+    "static/js/2.750e52df.chunk.js",
+    "static/css/main.3559a180.chunk.css",
+    "static/js/main.1f61b80b.chunk.js"
+  ]
+}
